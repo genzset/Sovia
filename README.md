@@ -10,6 +10,15 @@ SOVIA adalah platform sosial berbasis web yang memungkinkan pengguna untuk membu
 - Database: MySQL 8.4
 - Frontend: HTML5, CSS3, JavaScript
 
+**Account Test:**
+user
+- username : user
+- password : password
+
+admin
+- username: admin
+- password : password
+
 ---
 
 ## Dokumentasi Halaman
