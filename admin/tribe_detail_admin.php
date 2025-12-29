@@ -494,7 +494,7 @@ body {
         </div>
     </div>
     <div style="margin-top: 27px;">
-        <a href="../admin/admin.php" class="logout-btn" style="margin-right: 15px;">Kembali ke Admin</a>
+        <a href="../admin/admin.php" class="logout-btn" style="margin-right: 15px;">Kembali ke Home</a>
         <a href="../auth/logout.php" class="logout-btn">Logout</a>
     </div>
 </header>

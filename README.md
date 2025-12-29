@@ -16,7 +16,7 @@ SOVIA adalah platform sosial berbasis web yang memungkinkan pengguna untuk membu
 
 ### 🏠 Halaman Welcome (welcome.php)
 
-![Welcome Page](screenshots/welcome.png)
+![Welcome Page](uploads/welcome.png)
 
 **Penjelasan Fungsi:**
 
@@ -31,7 +31,7 @@ SOVIA adalah platform sosial berbasis web yang memungkinkan pengguna untuk membu
 
 ### 🔐 Halaman Login (auth/login.php)
 
-![Login Page](screenshots/login.png)
+![Login Page](uploads/login.png)
 
 **Penjelasan Fungsi:**
 
@@ -46,7 +46,7 @@ SOVIA adalah platform sosial berbasis web yang memungkinkan pengguna untuk membu
 
 ### 📝 Halaman Register (auth/register.php)
 
-![Register Page](screenshots/register.png)
+![Register Page](uploads/register.png)
 
 **Penjelasan Fungsi:**
 
@@ -62,7 +62,7 @@ SOVIA adalah platform sosial berbasis web yang memungkinkan pengguna untuk membu
 
 ### 🏡 Dashboard User (users/index.php)
 
-![Dashboard User](screenshots/dashboard-user.png)
+![Dashboard User](uploads/dashboard-user.png)
 
 **Penjelasan Fungsi:**
 
@@ -85,7 +85,7 @@ SOVIA adalah platform sosial berbasis web yang memungkinkan pengguna untuk membu
 
 ### 👥 Halaman Tribes (users/tribes.php)
 
-![Tribes Page](screenshots/tribes.png)
+![Tribes Page](uploads/tribes.png)
 
 **Penjelasan Fungsi:**
 
@@ -104,7 +104,7 @@ SOVIA adalah platform sosial berbasis web yang memungkinkan pengguna untuk membu
 
 ### 🎯 Halaman Detail Tribe (users/tribe_detail.php)
 
-![Tribe Detail](screenshots/tribe-detail.png)
+![Tribe Detail](uploads/tribe-detail.png)
 
 **Penjelasan Fungsi:**
 
@@ -121,7 +121,7 @@ SOVIA adalah platform sosial berbasis web yang memungkinkan pengguna untuk membu
 
 ### 👨‍💼 Admin Dashboard (admin/admin.php)
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](uploads/admin-dashboard.png)
 
 **Penjelasan Fungsi:**
 
@@ -139,7 +139,7 @@ SOVIA adalah platform sosial berbasis web yang memungkinkan pengguna untuk membu
 
 ### 👥 Halaman Manage Users (admin/manage_users.php)
 
-![Manage Users](screenshots/manage-users.png)
+![Manage Users](uploads/manage-users.png)
 
 **Penjelasan Fungsi:**
 
@@ -158,7 +158,7 @@ SOVIA adalah platform sosial berbasis web yang memungkinkan pengguna untuk membu
 
 ### 🎯 Halaman Manage Tribes (admin/tribes_admin.php)
 
-![Manage Tribes](screenshots/manage-tribes.png)
+![Manage Tribes](uploads/manage-tribes.png)
 
 **Penjelasan Fungsi:**
 
@@ -179,7 +179,7 @@ SOVIA adalah platform sosial berbasis web yang memungkinkan pengguna untuk membu
 
 ### 📋 Halaman Tribe Detail Admin (admin/tribe_detail_admin.php)
 
-![Tribe Detail Admin](screenshots/tribe-detail-admin.png)
+![Tribe Detail Admin](uploads/tribe-detail-admin.png)
 
 **Penjelasan Fungsi:**
 
@@ -195,7 +195,7 @@ SOVIA adalah platform sosial berbasis web yang memungkinkan pengguna untuk membu
 
 ### 💬 Halaman View Feedback (admin/view_feedback.php)
 
-![View Feedback](screenshots/view-feedback.png)
+![View Feedback](uploads/view-feedback.png)
 
 **Penjelasan Fungsi:**
 
@@ -211,37 +211,6 @@ SOVIA adalah platform sosial berbasis web yang memungkinkan pengguna untuk membu
 - Admin dapat menandai feedback yang sudah dibaca
 - Admin dapat menghapus feedback yang tidak relevan
 - Menampilkan jumlah feedback unread
-
----
-
-### ➕ Halaman Create Tribe (admin/create_tribe.php)
-
-![Create Tribe Admin](screenshots/create-tribe-admin.png)
-
-**Penjelasan Fungsi:**
-
-- Form untuk membuat tribe baru oleh admin
-- Input field **Tribe Name** untuk nama tribe
-- Input field **Upload Image** untuk mengupload gambar/logo tribe
-- Tombol **Create Tribe** untuk membuat tribe baru
-- Admin dapat membuat tribe langsung tanpa harus menjadi anggota
-- Tribe yang dibuat akan langsung tersedia di daftar tribes
-
----
-
-### ➕ Halaman Create Admin (admin/create_admin.php)
-
-![Create Admin](screenshots/create-admin.png)
-
-**Penjelasan Fungsi:**
-
-- Form untuk membuat akun admin baru
-- Input field **Username** untuk username admin baru
-- Input field **Password** untuk password admin baru
-- Input field **Confirm Password** untuk konfirmasi password
-- Tombol **Create Admin** untuk membuat akun admin
-- Hanya dapat diakses oleh admin yang sudah login
-- Admin baru yang dibuat akan memiliki akses penuh ke admin panel
 
 ---
 

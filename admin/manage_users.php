@@ -121,7 +121,7 @@ mysqli_close($conn);
     </header>
 
     <div class="feed">
-        <a href="../admin/admin.php" class="back-btn">← Back to Admin Panel</a>
+        <a href="../admin/admin.php" class="back-btn">← Kembali ke Admin Panel</a>
         
         <h2 style="color: #fff; margin-bottom: 20px;">All Users</h2>
         
