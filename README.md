@@ -16,7 +16,7 @@ user
 - password : password
 
 admin
-- username: admin
+- username : admin
 - password : password
 
 ---
